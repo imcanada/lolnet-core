@@ -1,0 +1,10 @@
+name: lolnet-core
+main: cc.imcanada.lolnet.Main
+version: 1.0
+author: imcanada.cc
+commands:
+   lolnet:
+      description: lolnet core information
+      usage: /lolnet
+      permission: lolnet.lolnet
+      permission-message: You do not have permission to use this command.
